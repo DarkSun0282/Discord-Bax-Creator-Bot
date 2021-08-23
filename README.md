@@ -36,3 +36,5 @@ start.bat را باز کنید
 ![Bax Creator Message](https://user-images.githubusercontent.com/89415765/130509927-5f0e769f-c611-463c-bf31-43c405c7eeda.png)
 
 ![Bax Creator Channels](https://user-images.githubusercontent.com/89415765/130509923-e2ec33e5-dec5-4a85-a1d2-39cc43d24957.png)
+
+![Bax Creator Roles](https://user-images.githubusercontent.com/89415765/130510643-5c08d9df-b7e9-4c5b-8afb-dfca1a0aa597.png)
