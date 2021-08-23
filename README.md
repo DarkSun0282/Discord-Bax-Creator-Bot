@@ -30,3 +30,9 @@ start.bat را باز کنید
 ! : پیشوند
 
 خوش بگذره ;)
+
+# Pictures | تصاویر
+
+![Bax Creator Message](https://user-images.githubusercontent.com/89415765/130509927-5f0e769f-c611-463c-bf31-43c405c7eeda.png)
+
+![Bax Creator Channels](https://user-images.githubusercontent.com/89415765/130509923-e2ec33e5-dec5-4a85-a1d2-39cc43d24957.png)
